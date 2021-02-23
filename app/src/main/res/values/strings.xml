@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="search">Lookup</string>
+    <string name="search_city_placeholder">City Name</string>
+    <string name="degree_cel_format">%s &#176; C</string>
+    <string name="degree_feels_like_format">Feels Like %s &#176; C</string>
+    <string name="degree_temp_format">Temp: %s &#176; C</string>
+</resources>
